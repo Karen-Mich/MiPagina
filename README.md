@@ -1,6 +1,6 @@
 # Mi Portafolio
 
-Página web que brinda una presentación de información personal sobre mí.
+Bienvenido a la documentación de mi página web. Esta página web fue creada para que conozcan más sobre mí.
 
 ## Contenido 
 
@@ -51,39 +51,39 @@ Si deseas ejecutar la página web localmente, sigue estos pasos:
 Necesitarás tener descargado Visual Studio Code.
 
 
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-## Versionado 📌
+   <details open>
+  <summary><h3>Estadisticas</h3></summary>
+        <p align="center">
+          <a href="https://github.com/Karen-Mich">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Karen-Mich&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karen-Mich&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+## Contribuciones 🎀
+
+¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes ideas para mejorar la página web, no dudes en contactarte.
+
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Karen Guatumillo** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Karen Guatumillo** - *Trabajo Inicial* - [Karen-Mich](https://github.com/Karen-Mich)
 
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
+* Un 10 no le hace mal a nadie 🥺
 
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+💯 con ❤️ por [Karen-Mich](https://github.com/Karen-Mich) 😊

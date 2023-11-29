@@ -1,39 +1,55 @@
-# Título del Proyecto
+# Mi Portafolio
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Página web que brinda una presentación de información personal sobre mí.
 
-## Comenzando 🚀
+## Contenido 
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+### Página Principal (`indice.html`) ✨
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+La página principal contiene las siguientes secciones:
 
+1. **Cabecera (`<header>`):** Incluye el título de la página y la barra de navegación.
+
+2. **Sección de Presentación:** Contiene una breve reseña de quién soy.
+
+3. **Sección de Características:** Destaca las características clave de la página.
+
+4. **Sección de Sobre mí:** Muestra temas importantes relacionados a mi vida.
+
+5. **Pie de Página (`<footer>`):** Contiene información de contacto.
+
+### Otras Páginas (`viajes.html`) 🌏
+
+La página `viajes.html` describe los viajes realizados a distintos lugares y contiene fotografías para que sea más visual la interfaz.
+
+### Estilos Personalizados (`pagina.css`) 🌺
+
+Se han aplicado estilos personalizados para mejorar la apariencia y la usabilidad de la página. Algunas características incluyen:
+
+- Color de fondo
+- Tipo de texto
+- Alineación
+
+## Instalación Local 📥
+
+Si deseas ejecutar la página web localmente, sigue estos pasos:
+
+1. Clona el repositorio:
+   `git clone https://github.com/tuusuario/tuproyecto.git`
+3. Abre el archivo en tu navegador:
+   `indice.html`
+
+## Herramientas
+
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,github,html,vscode&perline=14" />
+  </a>
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+Necesitarás tener descargado Visual Studio Code.
 
-```
-Da un ejemplo
-```
-
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 ## Despliegue 📦
 
@@ -43,17 +59,7 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 ## Versionado 📌
 
@@ -63,10 +69,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+* **Karen Guatumillo** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
 
 ## Licencia 📄
 

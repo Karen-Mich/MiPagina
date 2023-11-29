@@ -35,7 +35,7 @@ Se han aplicado estilos personalizados para mejorar la apariencia y la usabilida
 Si deseas ejecutar la página web localmente, sigue estos pasos:
 
 1. Clona el repositorio:
-   `git clone https://github.com/tuusuario/tuproyecto.git`
+   `https://github.com/Karen-Mich/MiPagina.git`
 3. Abre el archivo en tu navegador:
    `indice.html`
 
